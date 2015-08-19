@@ -1,3 +1,4 @@
+set hidden
 if &compatible
   set nocompatible
 end
